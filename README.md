@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fan-autodidact%2Ftermshot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fan-autodidact%2Ftermshot?ref=badge_shield)
+
 Terminal screenshot tool, which takes the 
 console output and renders an output 
 image that resembles a user interface
@@ -19,3 +21,7 @@ command and you are set.
 For example, termshot --show-cmd -- 
 lolcat -f <(figlet -f big foobar) will 
 create a screenshot which looks like this:
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fan-autodidact%2Ftermshot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fan-autodidact%2Ftermshot?ref=badge_large)
